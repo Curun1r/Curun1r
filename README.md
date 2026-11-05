@@ -9,7 +9,3 @@
 </picture>
 
 I’m Yehor, also known as **Curunir**. I build APIs and background services with Python.
-
-Explore my code: [Orvanta](https://github.com/Curun1r/Orvanta) · [HookCourier](https://github.com/Curun1r/hook-courier) · [Serpentis](https://github.com/Curun1r/Serpentis) · [Recipe API](https://github.com/Curun1r/Recipe-API)
-
-[Say hello](mailto:curunir.in.ireland@gmail.com)
