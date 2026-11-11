@@ -9,3 +9,5 @@
 </picture>
 
 I’m Yehor, also known as **Curunir**. I build APIs and background services with Python.
+
+[Visit my portfolio ↗](https://curunir.yehor-petrenko.workers.dev/)
